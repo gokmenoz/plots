@@ -5,7 +5,7 @@ import wikipedia as wp
 path=os.getcwd()
 df=pd.read_csv(path+'/country_iso_code/STEAM_country.csv')
 country_path=path+'/country_clean/raw/'
-
+"""hhjh"""
 cont=[]
 contfull=[]
 for con in os.listdir(country_path):
