@@ -1,4 +1,3 @@
-%matplotlib inline
 import pandas as pd
 import os
 
