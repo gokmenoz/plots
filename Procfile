@@ -1,1 +1,1 @@
-web: python deploy.py $PORT
+web: gunicorn app.hello:app
